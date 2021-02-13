@@ -1,4 +1,4 @@
-19103513938966529
+19105127185820644
 Artemis Payload Computer
 BMP280
 
@@ -11,8 +11,15 @@ IMU
 
 
 0
+10
+10
+Artemis Payload Computer
+Teensy30_31_32_LC
+
+
 0
-0
+39
+38
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
