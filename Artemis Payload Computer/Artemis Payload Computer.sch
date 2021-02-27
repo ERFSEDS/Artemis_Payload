@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 4
+Sheet 1 5
 Title ""
 Date ""
 Rev ""
@@ -30,5 +30,11 @@ S 8900 2300 1650 700
 U 6028504D
 F0 "IMU" 50
 F1 "IMU.sch" 50
+$EndSheet
+$Sheet
+S 1750 5300 1350 950 
+U 603A9972
+F0 "Power Supply" 50
+F1 "Power Supply.sch" 50
 $EndSheet
 $EndSCHEMATC

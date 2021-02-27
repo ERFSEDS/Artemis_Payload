@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 3 4
+Sheet 3 5
 Title ""
 Date ""
 Rev ""
@@ -14,10 +14,10 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Artemis_Footprints:BMP280 U?
+L Artemis_Footprints:BMP280 U301
 U 1 1 603A8ECA
 P 6100 3650
-F 0 "U?" H 6125 4015 50  0000 C CNN
+F 0 "U301" H 6125 4015 50  0000 C CNN
 F 1 "BMP280" H 6125 3924 50  0000 C CNN
 F 2 "" H 6100 4150 50  0001 C CNN
 F 3 "" H 6100 4150 50  0001 C CNN
