@@ -1,4 +1,3 @@
 (fp_lib_table
-  (lib (name "Artemis Payload Computer")(type KiCad)(uri "${KIPRJMOD}/Artemis Payload Computer.pretty")(options "")(descr ""))
-  (lib (name MIC39100-5)(type KiCad)(uri C:/Users/ckeer/Downloads/MIC39100-5.0WS)(options "")(descr ""))
+  (lib (name .pretty)(type KiCad)(uri ${KIPRJMOD}/.pretty)(options "")(descr ""))
 )

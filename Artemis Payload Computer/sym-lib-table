@@ -1,4 +1,4 @@
 (sym_lib_table
-  (lib (name Artemis_Footprints)(type Legacy)(uri ${KIPRJMOD}/Artemis_Footprints.lib)(options "")(descr ""))
-  (lib (name MIC39100-5.0WS)(type Legacy)(uri C:/Users/ckeer/Downloads/MIC39100-5.0WS/MIC39100-5.0WS.lib)(options "")(descr ""))
+  (lib (name HX711)(type Legacy)(uri ${KIPRJMOD}/Symbol/HX711.lib)(options "")(descr ""))
+  (lib (name Artemis_Payload_Computer-cache)(type Legacy)(uri "${KIPRJMOD}/Symbol/Artemis Payload Computer-cache.lib")(options "")(descr ""))
 )

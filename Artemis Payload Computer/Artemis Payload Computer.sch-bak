@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 5
+Sheet 1 2
 Title ""
 Date ""
 Rev ""
@@ -14,27 +14,15 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Sheet
-S 5200 2500 1800 1800
-U 60284F64
-F0 "Teensy3.2" 50
-F1 "Teensy3.sch" 50
+S 7450 640  2120 610 
+U 603A9D0E
+F0 "WS STRAIN GAUGE" 50
+F1 "WS STRAIN GAUGE.sch" 50
+F2 "DT" I L 7450 850 50 
+F3 "SCK" I L 7450 1040 50 
 $EndSheet
-$Sheet
-S 8900 900  1600 1000
-U 6028500E
-F0 "BAROMETER" 50
-F1 "BAROMETER.sch" 50
-$EndSheet
-$Sheet
-S 8900 2300 1650 700 
-U 6028504D
-F0 "IMU" 50
-F1 "IMU.sch" 50
-$EndSheet
-$Sheet
-S 1750 5300 1350 950 
-U 603A9972
-F0 "Power Supply" 50
-F1 "Power Supply.sch" 50
-$EndSheet
+Wire Wire Line
+	7450 850  7220 850 
+Wire Wire Line
+	7450 1040 7220 1040
 $EndSCHEMATC
