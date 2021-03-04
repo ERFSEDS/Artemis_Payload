@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name HX711)(type Legacy)(uri ${KIPRJMOD}/Symbol/HX711.lib)(options "")(descr ""))
+  (lib (name Artemis_Payload_Computer-cache)(type Legacy)(uri "${KIPRJMOD}/Symbol/Artemis Payload Computer-cache.lib")(options "")(descr ""))
+)
