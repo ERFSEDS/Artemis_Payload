@@ -108,4 +108,45 @@ Wire Wire Line
 	6050 3800 5500 3800
 Wire Wire Line
 	5500 3800 5500 3700
+$Comp
+L Artemis_Payload_Computer-cache:Connector_Screw_Terminal_01x02 J601
+U 1 1 60408505
+P 5650 4450
+F 0 "J601" H 5568 4125 50  0000 C CNN
+F 1 "Connector_Screw_Terminal_01x02" H 5568 4216 50  0000 C CNN
+F 2 "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" H 5650 4450 50  0001 C CNN
+F 3 "" H 5650 4450 50  0001 C CNN
+	1    5650 4450
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:+BATT #PWR0113
+U 1 1 60408CE9
+P 6400 4350
+F 0 "#PWR0113" H 6400 4200 50  0001 C CNN
+F 1 "+BATT" V 6415 4477 50  0000 L CNN
+F 2 "" H 6400 4350 50  0001 C CNN
+F 3 "" H 6400 4350 50  0001 C CNN
+	1    6400 4350
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0114
+U 1 1 60409215
+P 6400 4600
+F 0 "#PWR0114" H 6400 4350 50  0001 C CNN
+F 1 "GND" H 6405 4427 50  0000 C CNN
+F 2 "" H 6400 4600 50  0001 C CNN
+F 3 "" H 6400 4600 50  0001 C CNN
+	1    6400 4600
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5850 4350 6400 4350
+Wire Wire Line
+	5850 4450 6150 4450
+Wire Wire Line
+	6150 4450 6150 4600
+Wire Wire Line
+	6150 4600 6400 4600
 $EndSCHEMATC
