@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 2
+Sheet 1 6
 Title ""
 Date ""
 Rev ""
@@ -25,4 +25,28 @@ Wire Wire Line
 	7450 850  7220 850 
 Wire Wire Line
 	7450 1040 7220 1040
+$Sheet
+S 2400 2700 2650 1350
+U 60403E20
+F0 "Teensy3.2" 50
+F1 "Teensy3.sch" 50
+$EndSheet
+$Sheet
+S 5950 2700 1250 700 
+U 60404056
+F0 "IMU" 50
+F1 "IMU.sch" 50
+$EndSheet
+$Sheet
+S 5950 3800 1250 650 
+U 60404167
+F0 "BMP280" 50
+F1 "BMP280.sch" 50
+$EndSheet
+$Sheet
+S 6000 4950 1200 650 
+U 60404A5A
+F0 "Power Supply" 50
+F1 "Power Supply.sch" 50
+$EndSheet
 $EndSCHEMATC

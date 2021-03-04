@@ -14,10 +14,10 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Artemis_Footprints:Teensy3.2 U?
+L Artemis_Footprints:Teensy3.2 U301
 U 1 1 6028516C
 P 6350 3600
-F 0 "U?" H 6350 5343 60  0000 C CNN
+F 0 "U301" H 6350 5343 60  0000 C CNN
 F 1 "Teensy3.2" H 6350 5237 60  0000 C CNN
 F 2 "Artemis Payload Computer:Teensy30_31_32_LC" H 6350 5131 60  0000 C CNN
 F 3 "" H 6350 2850 60  0000 C CNN
