@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 6
+Sheet 1 7
 Title ""
 Date ""
 Rev ""
@@ -54,5 +54,11 @@ S 6000 4950 1200 650
 U 60404A5A
 F0 "Power Supply" 50
 F1 "Power Supply.sch" 50
+$EndSheet
+$Sheet
+S 8400 1800 1100 500 
+U 604269F8
+F0 "SD_card" 50
+F1 "SD_card.sch" 50
 $EndSheet
 $EndSCHEMATC
