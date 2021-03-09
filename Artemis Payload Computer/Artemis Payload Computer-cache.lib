@@ -44,6 +44,25 @@ X AC 9 400 -300 100 L 50 50 1 1 B
 ENDDRAW
 ENDDEF
 #
+# Artemis_Footprints_MicroS_Breakout_Sparkfun
+#
+DEF Artemis_Footprints_MicroS_Breakout_Sparkfun U 0 40 Y Y 1 F N
+F0 "U" 0 0 50 H V C CNN
+F1 "Artemis_Footprints_MicroS_Breakout_Sparkfun" 50 -50 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+S -450 750 550 0 0 1 0 N
+X VCC 1 550 650 100 L 50 50 1 1 I
+X CS 2 550 550 100 L 50 50 1 1 I
+X DI 3 550 450 100 L 50 50 1 1 I
+X SCK 4 550 350 100 L 50 50 1 1 I
+X DO 5 550 250 100 L 50 50 1 1 I
+X CD 6 550 150 100 L 50 50 1 1 I
+X GND 7 550 50 100 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
 # Artemis_Footprints_Teensy3.2
 #
 DEF Artemis_Footprints_Teensy3.2 U 0 40 Y Y 1 F N
