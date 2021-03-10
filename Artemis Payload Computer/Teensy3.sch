@@ -121,4 +121,5 @@ Text HLabel 5000 4550 0    50   Input ~ 0
 CD
 Wire Wire Line
 	5350 4550 5000 4550
+NoConn ~ 7350 3650
 $EndSCHEMATC
